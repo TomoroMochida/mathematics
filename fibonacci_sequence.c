@@ -2,7 +2,7 @@
 
 int fib(int);
 int main(){
-    for(int i = 0; i < 30; i++){
+    for(int i = 0; i < 30; i ++){
         printf("%d\n", fib(i));
     }
     return 0;
